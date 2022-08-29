@@ -21,6 +21,6 @@
    <p> - Clone o repositório </p> 
    <p> - Digite no terminal "npm install" para instalar as dependências </p> 
    <p> - crie um arquivo ".env" com o seguinte:</p> 
-       <p> DATABASE_URL:(url do seu banco de dados postgresql)</p> 
+       <p> DATABASE_URL=(url do seu banco de dados postgresql)</p> 
    <p> - Digite no terminal "npx prisma db push" e depois "npm run dev"</p> 
    <p> - Veja o projeto em localhost:3000/</p> 
